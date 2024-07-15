@@ -39,7 +39,9 @@
 
 
 `При необходимости прикрепитe сюда скриншоты
-![Задание_1](https://github.com/timurgithub/netology-git-hw/blob/main/img/1.)
+![Скриншот 1](https://github.com/timurgithub/cisco-hw/blob/main/img/01.png)
+[pkt-файл](img/hsrp_advanced%20(2).pkt)
+
 
 ---
 
